@@ -1,8 +1,10 @@
 Usefull scripts to use in your OS
 # scripts
 
-chmod +x clean_ubuntu.sh
+EXAMPLE:
 
-./clean_ubuntu.sh
+chmod +x clean_ubuntu2204.sh
+
+./clean_ubuntu2204.sh
 
 
